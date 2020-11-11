@@ -1,0 +1,23 @@
+img{
+display:flex;
+margin: 0 auto;
+}
+html{
+
+    height: 100%;
+    
+    }
+    
+body{
+
+height: 100%;
+
+}
+
+
+body #a{
+background-color: rgb(241, 241, 241);
+z-index: -999;
+height: 88.4%;
+
+}
